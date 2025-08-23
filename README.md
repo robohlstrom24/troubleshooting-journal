@@ -8,10 +8,4 @@ The style and structure of entries are designed to mirror ITSM systems (e.g., Sp
 
 ### Resolving Partition Selection Error Encountered During Desktop Refurbishment Project
 
-<img width="680" height="563" alt="T0003" src="https://github.com/user-attachments/assets/a5d25598-59fb-4c1b-a020-f81bf5411587" />
-
-Ticket 4
-[RAM incompatibility](<img width="541" height="452" alt="T0004" src="https://github.com/user-attachments/assets/c6e790a4-1cb7-43bf-91c3-4900aa048236" />)
-
-Ticket 5
-<img width="591" height="424" alt="T0005" src="https://github.com/user-attachments/assets/37afe62d-fe20-45cf-a6b4-873d7cc2439a" />
+- [T-0004 RAM Compatibility Issue](images/t0004.png)
