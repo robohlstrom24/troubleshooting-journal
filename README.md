@@ -11,4 +11,4 @@ The style and structure of entries are designed to mirror ITSM systems (e.g., Sp
 
 - [T-0004 RAM Compatibility Issue](images/T0004.png)
 - [T-0005 Blank Screen after SSD Upgrade](images/T0005.png)
-[Back to Desktop Refurb repository](https://github.com/robohlstrom24/desktop-refurb)
+Link [Back to Desktop Refurb repository](https://github.com/robohlstrom24/desktop-refurb)
