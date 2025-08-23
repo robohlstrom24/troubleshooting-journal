@@ -4,7 +4,7 @@ This project tracks all troubleshooting activities performed during the completi
 
 The style and structure of entries are designed to mirror ITSM systems (e.g., Spiceworks, Jira Service Management, ServiceNow). Entries include ticket-style formatting and links to their corresponding repositories, simulating how issues are resolved in a professional IT environment.  
 
-##example
+## Example
 
 ### Resolving Partition Selection Error Encountered During Desktop Refurbishment project
 
