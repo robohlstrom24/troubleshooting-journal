@@ -8,4 +8,4 @@ The style and structure of entries are designed to mirror ITSM systems (e.g., Sp
 
 ### Resolving Partition Selection Error Encountered During Desktop Refurbishment Project
 
-- [T-0004 RAM Compatibility Issue](images/t0004.png)
+- [T-0004 RAM Compatibility Issue](images/T0004.png)
