@@ -6,7 +6,7 @@ The style and structure of entries are designed to mirror ITSM systems (e.g., Sp
 
 ## Example
 
-(images/T0003.png)
-### Resolving Partition Selection Error Encountered During Desktop Refurbishment Project
+![Resolving Partition Selection Error Encountered During Desktop Refurbishment Project](images/T0003.png)
+
 
 - [T-0004 RAM Compatibility Issue](images/T0004.png)
