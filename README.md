@@ -4,10 +4,11 @@ This project tracks all troubleshooting activities performed during the completi
 
 The style and structure of entries are designed to mirror ITSM systems (e.g., Spiceworks, Jira Service Management, ServiceNow). Entries include ticket-style formatting which simulates a professional IT environment, along with links to their corresponding repositories.  
 
-## Example
+## Example: T-0003
 
 ![Resolving Partition Selection Error Encountered During Desktop Refurbishment Project](images/T0003.png)
 
 
 - [T-0004 RAM Compatibility Issue](images/T0004.png)
 - [T-0005 Blank Screen after SSD Upgrade](images/T0005.png)
+[Back to Desktop Refurb repository](https://github.com/robohlstrom24/desktop-refurb)
