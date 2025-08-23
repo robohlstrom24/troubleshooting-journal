@@ -2,7 +2,7 @@
 
 This project tracks all troubleshooting activities performed during the completion of other projects (desktop refurbishment, software troubleshooting demonstrations, and home network creation). Each entry applies the CompTIA 7-step troubleshooting methodology, demonstrating working knowledge of A+ and Network+ concepts.  
 
-The style and structure of entries are designed to mirror ITSM systems (e.g., Spiceworks, Jira Service Management, ServiceNow). Entries include ticket-style formatting simulating how issues are resolved in a professional IT environment, along with links to their corresponding repositories.  
+The style and structure of entries are designed to mirror ITSM systems (e.g., Spiceworks, Jira Service Management, ServiceNow). Entries include ticket-style formatting which simulates a professional IT environment, along with links to their corresponding repositories.  
 
 ## Example
 
