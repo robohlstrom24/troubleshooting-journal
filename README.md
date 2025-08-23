@@ -9,3 +9,11 @@ The style and structure of entries are designed to mirror ITSM systems (e.g., Sp
 ### Resolving Partition Selection Error Encountered During Desktop Refurbishment Project
 
 <img width="680" height="563" alt="T0003" src="https://github.com/user-attachments/assets/a5d25598-59fb-4c1b-a020-f81bf5411587" />
+
+/tickets/
+   T-0001.md
+   T-0002.md
+   T-0003.md
+/images/
+   t0001_screenshot.png
+   t0003_screenshot.png
