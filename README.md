@@ -6,9 +6,7 @@ This project documents troubleshooting activities performed on endpoints and sim
 
 ## Job Duties Demonstrated 
 
-- Diagnosing and resolving startup issues through structured troubleshooting and validation  
-- Investigating hardware compatibility issues, confirming specifications, and validating system stability after remediation  
-- Correcting partitioning errors to restore normal system operation  
+- Diagnosing and resolving issues through structured troubleshooting and validation  
 - Applying hypothesis-driven testing and root cause analysis to isolate faults and prevent recurrence  
 
 ## Future Enhancements
