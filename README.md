@@ -22,5 +22,5 @@ This project documents troubleshooting activities performed on endpoints and sim
 
 - [T-0004 RAM Compatibility Issue](images/T0004.png)
 - [T-0005 Blank Screen after SSD Upgrade](images/T0005.png)
-  
+- [T-0006 Windows Update STalled](images/T0006.png)  
    [**Back to Desktop Refurb Repository](https://github.com/robohlstrom24/desktop-refurb)
