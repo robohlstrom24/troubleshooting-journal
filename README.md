@@ -2,7 +2,7 @@
  
  ## Operational Relevance (Troubleshooting and Incident Response)
 
-This project documents troubleshooting activities performed on endpoints and simulated lab environments during the completion of other documented projects. Each entry includes a structured diagnosis of the issue, hypothesis-driven testing, and subsequent root cause analysis. Attention is given to potential impact and system stability, ensuring that unnecessary changes are minimized. Documentation is recorded in a ticket-style format to align with ITSM workflows used in a professional IT environment.
+This project documents troubleshooting activities performed on endpoints and simulated lab environments during the completion of other documented projects. Each entry includes a structured diagnosis of the issue, hypothesis-driven testing, and subsequent root cause analysis. Documentation is recorded in a ticket-style format to align with ITSM workflows used in a professional IT environment.
 
 ## Job Duties (IT Operations)
 
