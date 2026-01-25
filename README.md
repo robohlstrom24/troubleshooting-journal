@@ -4,7 +4,7 @@
 
 This project documents troubleshooting activities performed on endpoints and simulated lab environments during the completion of other documented projects. Each entry includes a structured diagnosis of the issue, hypothesis-driven testing, and subsequent root cause analysis. Documentation is recorded in a ticket-style format to align with ITSM workflows used in a professional IT environment.
 
-## Job Duties (IT Operations)
+## Job Duties Demonstrated 
 
 - Diagnosing and resolving startup issues through structured troubleshooting and validation  
 - Investigating hardware compatibility issues, confirming specifications, and validating system stability after remediation  
@@ -13,8 +13,8 @@ This project documents troubleshooting activities performed on endpoints and sim
 
 ## Future Enhancements
 
-- Troubleshooting activities arising from a scoped home network project, including endpoint connectivity and configuration issues  
-- Additional troubleshooting scenarios using ACI Learning practice labs to simulate common system-level incidents  
+- Additional troubleshooting activities arising from a scoped home network project 
+- Additional troubleshooting activities arising from a scoped Active Directory project
  
 
 ## Example: T-0003
