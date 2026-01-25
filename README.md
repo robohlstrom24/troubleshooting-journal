@@ -21,7 +21,9 @@ This project documents troubleshooting activities performed on endpoints and sim
 
 <details>
  <summary> T-0004 RAM Compatibility Issue</summary>
+ 
  ![T-0004 RAM Compatibility Issue](images/T0004.png)
+ 
 </details>
 
 - [T-0005 Blank Screen after SSD Upgrade](images/T0005.png)
