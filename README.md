@@ -29,7 +29,7 @@ This project documents troubleshooting activities performed on endpoints and sim
 <details>
  <summary> T-0005 Blank Screen after SSD Upgrade</summary>
 
- ![T-0005 Blank Screen after SSD Upgrade]((images/T0005.png)
+ ![T-0005 Blank Screen after SSD Upgrade](images/T0005.png)
  
 </details>
 
