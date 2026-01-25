@@ -19,8 +19,11 @@ This project documents troubleshooting activities performed on endpoints and sim
 
 ![Resolving Partition Selection Error Encountered During Desktop Refurbishment Project](images/T0003.png)
 
+<details>
+ <summary> T-0004 RAM Compatibility Issue</summary>
+ (images/T0004.png)
+</details>
 
-- [T-0004 RAM Compatibility Issue](images/T0004.png)
 - [T-0005 Blank Screen after SSD Upgrade](images/T0005.png)
 - [T-0006 Windows Update Stalled](images/T0006.png)
 
