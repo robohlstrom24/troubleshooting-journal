@@ -33,7 +33,12 @@ This project documents troubleshooting activities performed on endpoints and sim
  
 </details>
 
-- [T-0006 Windows Update Stalled](images/T0006.png)
+<details>
+ <summary> T-0006 Windows Update Stalled</summary>
+
+ ![T-0006 Windows Update Stalled](images/T0006.png)
+ 
+</details>
 
 [**Back to Desktop Refurb Repository](https://github.com/robohlstrom24/desktop-refurb)
 
