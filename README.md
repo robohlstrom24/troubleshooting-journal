@@ -41,7 +41,7 @@ This project documents troubleshooting activities performed on endpoints and sim
 </details>
 
 <details>
- <summary> T-0007 Download Failed; Insufficient Disk Space
+ <summary> T-0007 Download Failed</summary>
 
   ![T-0007 Download Failed; Insufficient Disk Space](images/T0007.png)
   
