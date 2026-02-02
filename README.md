@@ -8,11 +8,6 @@ This project documents troubleshooting activities performed on endpoints and sim
 
 - Diagnosing and resolving issues through structured troubleshooting and validation  
 - Applying hypothesis-driven testing and root cause analysis to isolate faults and prevent recurrence  
-
-## Future Enhancements
-
-- Additional troubleshooting activities arising from a scoped home network project 
-- Additional troubleshooting activities arising from a scoped Active Directory project
  
 
 ## Example: T-0003
@@ -51,3 +46,8 @@ This project documents troubleshooting activities performed on endpoints and sim
 [**Back to Desktop Refurb Repository](https://github.com/robohlstrom24/desktop-refurb)
 
 [**Back to PowerShell Foundations Repository](https://github.com/robohlstrom24/powershell-foundations)
+
+## Future Enhancements
+
+- Additional troubleshooting activities arising from a scoped home network project 
+- Additional troubleshooting activities arising from a scoped Active Directory project
