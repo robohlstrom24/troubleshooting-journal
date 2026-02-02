@@ -40,6 +40,14 @@ This project documents troubleshooting activities performed on endpoints and sim
  
 </details>
 
+<details>
+ <summary> T-0007 Download Failed; Insufficient Disk Space
+
+  ![T-0007 Download Failed; Insufficient Disk Space](images/T0007.png)
+  
+ </details>
+
+
 [**Back to Desktop Refurb Repository](https://github.com/robohlstrom24/desktop-refurb)
 
 [**Back to PowerShell Foundations Repository](https://github.com/robohlstrom24/powershell-foundations)
