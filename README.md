@@ -45,7 +45,7 @@ This project documents troubleshooting activities performed on endpoints and sim
 <details>
  <summary> T-0008 User unable to save files locally </summary>
 
-![8](images/ITSM.ticket8.pmg)
+![8](images/ITSM.ticket8.png)
 
 </details>
 
