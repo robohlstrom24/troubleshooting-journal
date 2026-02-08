@@ -42,6 +42,12 @@ This project documents troubleshooting activities performed on endpoints and sim
   
  </details>
 
+<details>
+ <summary> T-0008 User unable to save files locally </summary>
+
+![8](images/ITSM.ticket8.pmg)
+
+</details>
 
 [**Back to Desktop Refurb Repository](https://github.com/robohlstrom24/desktop-refurb)
 
