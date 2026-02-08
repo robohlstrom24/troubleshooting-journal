@@ -4,12 +4,6 @@
 
 This project documents troubleshooting activities performed on endpoints and simulated lab environments during the completion of other documented projects. Each entry includes a structured diagnosis of the issue, hypothesis-driven testing, and subsequent root cause analysis. Documentation is recorded in a ticket-style format to align with ITSM workflows used in a professional IT environment.
 
-## Job Duties Demonstrated 
-
-- Diagnosing and resolving issues through structured troubleshooting and validation  
-- Applying hypothesis-driven testing and root cause analysis to isolate faults and prevent recurrence  
- 
-
 ## Example: T-0003
 
 ![Resolving Partition Selection Error Encountered During Desktop Refurbishment Project](images/T0003.png)
@@ -52,6 +46,8 @@ This project documents troubleshooting activities performed on endpoints and sim
 [**Back to Desktop Refurb Repository](https://github.com/robohlstrom24/desktop-refurb)
 
 [**Back to PowerShell Foundations Repository](https://github.com/robohlstrom24/powershell-foundations)
+
+[**Back to Active Directory Lab Repository](https://github.com/robohlstrom24/AD-lab)
 
 ## Future Enhancements
 
