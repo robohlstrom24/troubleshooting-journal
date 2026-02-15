@@ -43,6 +43,12 @@ This project documents troubleshooting activities performed on endpoints and sim
 
 </details>
 
+<details>
+ <summary> T-0009 User unable to print (software tools) </summary>
+
+![9](images/ITSM.ticket8.png)
+ 
+</details>
 [**Back to Desktop Refurb Repository](https://github.com/robohlstrom24/desktop-refurb)
 
 [**Back to PowerShell Foundations Repository](https://github.com/robohlstrom24/powershell-foundations)
