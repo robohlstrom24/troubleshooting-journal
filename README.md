@@ -1,6 +1,6 @@
-# Troubleshooting Journal
+![1](images/troubleshooting.banner.png)
  
- ## Operational Relevance (Troubleshooting and Incident Response)
+ ## Operational Relevance 
 
 This project documents troubleshooting activities performed on endpoints and simulated lab environments during the completion of other documented projects. Each entry includes a structured diagnosis of the issue, hypothesis-driven testing, and subsequent root cause analysis. Documentation is recorded in a ticket-style format to align with ITSM workflows used in a professional IT environment.
 
