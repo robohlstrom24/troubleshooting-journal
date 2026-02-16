@@ -2,49 +2,49 @@
  
  ## Operational Relevance 
 
-This project documents troubleshooting activities performed on endpoints and simulated lab environments during the completion of other documented projects. Each entry includes a structured diagnosis of the issue, hypothesis-driven testing, and subsequent root cause analysis. Documentation is recorded in a ticket-style format to align with ITSM workflows used in a professional IT environment.
+This project documents troubleshooting activities that arose naturally while working on other documented projects, as well as simulated troubleshooting scenarios involving Active Directory (AD), software tools, and PowerShell. Each entry includes a structured diagnosis of the issue, hypothesis-driven testing, and subsequent root cause analysis. Documentation is recorded in an ITSM-style ticketing format that aligns with professional IT Support workflows.
 
 ## Example: T-0003
 
 ![Resolving Partition Selection Error Encountered During Desktop Refurbishment Project](images/T0003.png)
 
 <details>
- <summary> T-0004 RAM Compatibility Issue</summary>
+ <summary> T-0004 RAM Compatibility Issue - Desktop Refurbishment Repository</summary>
  
  ![T-0004 RAM Compatibility Issue](images/T0004.png)
  
 </details>
 
 <details>
- <summary> T-0005 Blank Screen after SSD Upgrade</summary>
+ <summary> T-0005 Blank Screen after SSD Upgrade - Desktop Refurbishment Repository </summary>
 
  ![T-0005 Blank Screen after SSD Upgrade](images/T0005.png)
  
 </details>
 
 <details>
- <summary> T-0006 Windows Update Stalled</summary>
+ <summary> T-0006 Windows Update Stalled - Desktop Refurbishment Repository </summary>
 
  ![T-0006 Windows Update Stalled](images/T0006.png)
  
 </details>
 
 <details>
- <summary> T-0007 Download Failed</summary>
+ <summary> T-0007 Download Failed - PowerShell Foundations Repository </summary>
 
   ![T-0007 Download Failed; Insufficient Disk Space](images/T0007.png)
   
  </details>
 
 <details>
- <summary> T-0008 User unable to save files locally </summary>
+ <summary> T-0008 User unable to save files locally - Active Directory Repository </summary>
 
 ![8](images/ITSM.ticket8.png)
 
 </details>
 
 <details>
- <summary> T-0009 User unable to print (software tools) </summary>
+ <summary> T-0009 User unable to print - Software Tools Repository </summary>
 
 ![9](images/ITSM.ticket9.png)
  
