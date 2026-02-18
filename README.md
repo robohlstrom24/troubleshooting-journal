@@ -53,7 +53,7 @@ This project documents troubleshooting activities that arose naturally while wor
 <details>
  <summary> T-0010 No Internet - IP Address Conflict - Networking Foundations Repository</summary>
 
- ![10](images/t.0010.png)
+ ![10](images/T.0010.png)
  
 </details>
 
