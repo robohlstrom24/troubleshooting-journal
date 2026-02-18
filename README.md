@@ -64,6 +64,9 @@ This project documents troubleshooting activities that arose naturally while wor
 [**Back to Active Directory Lab Repository](https://github.com/robohlstrom24/AD-lab)
 
 [**Back to Software Tools Repository](https://github.com/robohlstrom24/software-tools)
+
+[**Back to Networking Foundations Repository](https://github.com/robohlstrom24/networking-foundations)
+
 ## Future Enhancements
 
 - Additional troubleshooting activities arising from a scoped home network project 
