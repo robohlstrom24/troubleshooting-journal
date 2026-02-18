@@ -50,6 +50,13 @@ This project documents troubleshooting activities that arose naturally while wor
  
 </details>
 
+<details>
+ <summary> T-0010 No Internet - IP Address Conflict - Networking Foundations Repository</summary>
+
+ ![10](images/t.0010.png)
+ 
+</details>
+
 [**Back to Desktop Refurb Repository](https://github.com/robohlstrom24/desktop-refurb)
 
 [**Back to PowerShell Foundations Repository](https://github.com/robohlstrom24/powershell-foundations)
