@@ -2,7 +2,7 @@
  
  ## Operational Relevance 
 
-This project documents troubleshooting activities that arose naturally while working on other documented projects, as well as simulated troubleshooting scenarios involving Active Directory (AD), software tools, and PowerShell. Each entry includes a structured diagnosis of the issue, hypothesis-driven testing, and subsequent root cause analysis. Documentation is recorded in an ITSM-style ticketing format that aligns with professional IT Support workflows.
+This project documents troubleshooting activities that arose while working on other documented projects, as well as simulated troubleshooting scenarios involving Active Directory (AD), Microsoft 365 (M365) software tools, and PowerShell. Each entry includes a structured diagnosis of the issue, hypothesis-driven testing, and subsequent root cause analysis. Documentation is recorded in an ITSM-style ticketing format that aligns with professional IT Support workflows.
 
 ## Example: T-0003
 
@@ -57,6 +57,12 @@ This project documents troubleshooting activities that arose naturally while wor
  
 </details>
 
+<details>
+ <summary> T-0011 Email Malfunctioning - Inadvertant License Removal - M365 Repository</summary>
+
+ ![11](images/T-0011.png)
+ 
+</details>
 [**Back to Desktop Refurb Repository](https://github.com/robohlstrom24/desktop-refurb)
 
 [**Back to PowerShell Foundations Repository](https://github.com/robohlstrom24/powershell-foundations)
@@ -66,6 +72,8 @@ This project documents troubleshooting activities that arose naturally while wor
 [**Back to Software Tools Repository](https://github.com/robohlstrom24/software-tools)
 
 [**Back to Networking Foundations Repository](https://github.com/robohlstrom24/networking-foundations)
+
+[**Back to Microsoft 365 Repository](https://github.com/robohlstrom24/M365)
 
 ## Future Enhancements
 
