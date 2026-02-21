@@ -76,7 +76,3 @@ This project documents troubleshooting activities that arose while working on ot
 
 [**Back to Microsoft 365 Repository](https://github.com/robohlstrom24/M365)
 
-## Future Enhancements
-
-- Additional troubleshooting activities arising from a scoped home network project 
-- Additional troubleshooting activities arising from a scoped Active Directory project
