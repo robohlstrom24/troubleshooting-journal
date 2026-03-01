@@ -66,6 +66,7 @@ This project documents troubleshooting activities that arose while working on ot
 
 <details>
  <summary> T-0012 Domain-Join Failure - Broken Trust Relationship - Active Directory Repository</summary>
+ 
  ![12](images/T-0012.png)
  
 </details>
