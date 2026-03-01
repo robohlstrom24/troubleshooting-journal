@@ -64,6 +64,13 @@ This project documents troubleshooting activities that arose while working on ot
  
 </details>
 
+<details>
+ <summary> T-0012 Domain-Join Failure - Broken Trust Relationship - Active Directory Repository</summary>
+ ![12](images/T-0012.png)
+ 
+</details>
+
+
 [**Back to Desktop Refurb Repository](https://github.com/robohlstrom24/desktop-refurb)
 
 [**Back to PowerShell Foundations Repository](https://github.com/robohlstrom24/powershell-foundations)
