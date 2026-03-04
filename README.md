@@ -78,6 +78,13 @@ This project documents troubleshooting activities that arose while working on ot
 
 </details>
 
+<details>
+ <summary> T-0014 Web Application Unavailable - Software Tools Repository </summary>
+
+ ![14](images/T-0014.png)
+ 
+</details>
+
 [**Back to Desktop Refurb Repository](https://github.com/robohlstrom24/desktop-refurb)
 
 [**Back to PowerShell Foundations Repository](https://github.com/robohlstrom24/powershell-foundations)
