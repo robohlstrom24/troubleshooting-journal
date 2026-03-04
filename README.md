@@ -71,6 +71,12 @@ This project documents troubleshooting activities that arose while working on ot
  
 </details>
 
+<details> 
+<summary> T-0013 High CPU Utilization - Runaway Script - Software Tools Repository</summary> 
+
+![13](images/T-0013.png)
+
+</details>
 
 [**Back to Desktop Refurb Repository](https://github.com/robohlstrom24/desktop-refurb)
 
