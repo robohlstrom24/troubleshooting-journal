@@ -2,7 +2,7 @@
  
  ## Operational Relevance 
 
-This project documents troubleshooting activities that arose while working on other projects, as well as simulated troubleshooting scenarios involving Active Directory (AD), Microsoft 365 (M365), software tools, networking, and PowerShell. Documentation is recorded in an ITSM-style ticketing format that aligns with professional IT Support workflows.
+This project documents troubleshooting activities that arose while working on other projects, as well as simulated troubleshooting scenarios involving Active Directory (AD), Microsoft 365 (M365), software tools, networking, and PowerShell. Documentation is recorded in an ITSM-style ticketing format that aligns with professional IT Support workflows. Click the > drop-down to view each ticket. 
 
 ## Example: T-0003
 
