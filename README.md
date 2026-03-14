@@ -85,6 +85,13 @@ This project documents troubleshooting activities that arose while working on ot
  
 </details>
 
+<details>
+ <summary>T-0015 RDP server access failure - Hybrid Identity Lifecycle Capstone Project </summary>
+
+ ![15](images/T0015.png)
+ 
+</details>
+
 [**Back to Desktop Refurb Repository](https://github.com/robohlstrom24/desktop-refurb)
 
 [**Back to PowerShell Foundations Repository](https://github.com/robohlstrom24/powershell-foundations)
