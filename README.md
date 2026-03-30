@@ -92,6 +92,13 @@ This project documents troubleshooting activities that arose while working on ot
  
 </details>
 
+<details>
+ <summary>T-0016 SharePiont File Access Denial</summary>
+
+ ![16](images/T0016.png)
+ 
+</details>
+
 [**Back to Desktop Refurb Repository](https://github.com/robohlstrom24/desktop-refurb)
 
 [**Back to PowerShell Foundations Repository](https://github.com/robohlstrom24/powershell-foundations)
