@@ -93,7 +93,7 @@ This project documents troubleshooting activities that arose while working on ot
 </details>
 
 <details>
- <summary>T-0016 SharePiont File Access Denial - M365 Repository</summary>
+ <summary>T-0016 SharePoint File Access Denial - M365 Repository</summary>
 
  ![16](images/T0016.png)
  
