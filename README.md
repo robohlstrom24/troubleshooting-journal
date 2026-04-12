@@ -107,7 +107,7 @@ This project documents troubleshooting activities that arose while working on ot
 </details>
 
 <details>
- <summary> Overly Broad SharePoint Permissions Create Unintended Access - M365 Repository</summary>
+ <summary> T-0018 Overly Broad SharePoint Permissions Create Unintended Access - M365 Repository</summary>
 
  ![18](images/T-0018.png)
  
