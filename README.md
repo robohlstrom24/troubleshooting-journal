@@ -2,7 +2,7 @@
  
  ## Operational Relevance 
 
-This project documents troubleshooting activities that arose while working on other projects, as well as simulated troubleshooting scenarios involving Active Directory (AD), Microsoft 365 (M365), software tools, networking, and PowerShell. Documentation is recorded in an ITSM-style ticketing format that aligns with professional IT Support workflows. Click the > drop-down to view each ticket. 
+This project documents troubleshooting activities that arose while working on other projects, as well as common troubleshooting scenarios simulated in a home lab environment. Documentation is recorded in an ITSM-style ticketing format that aligns with professional IT Support workflows. Click the > drop-down to view each ticket. 
 
 ## Example: T-0003
 
@@ -86,7 +86,7 @@ This project documents troubleshooting activities that arose while working on ot
 </details>
 
 <details>
- <summary>T-0015 RDP server access failure - Hybrid Identity Lifecycle Capstone Project </summary>
+ <summary>T-0015 RDP server access failure - M365 Repository</summary>
 
  ![15](images/T0015.png)
  
@@ -96,6 +96,13 @@ This project documents troubleshooting activities that arose while working on ot
  <summary>T-0016 SharePoint File Access Denial - M365 Repository</summary>
 
  ![16](images/T0016.png)
+ 
+</details>
+
+<details>
+ <summary>T-0017 Inaccessible Network Share (Permissions Mismatch) - AD Repository</summary>
+
+ ![17](images/T-0017.png)
  
 </details>
 
