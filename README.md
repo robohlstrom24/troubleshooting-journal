@@ -93,13 +93,6 @@ This project documents troubleshooting activities that arose while working on ot
 </details>
 
 <details>
- <summary>T-0016 SharePoint File Access Denial - M365 Repository</summary>
-
- ![16](images/T0016.png)
- 
-</details>
-
-<details>
  <summary>T-0017 Inaccessible Network Share (Permissions Mismatch) - AD Repository</summary>
 
  ![17](images/T-0017.png)
