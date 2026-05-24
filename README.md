@@ -9,7 +9,7 @@ This project documents troubleshooting activities that arose while working on ot
 ![8](images/T-008.1.png)
 
 <details>
- <summary>Windows 11 install failed - partition selection error - Desktop Refurbishment Repository</summary>
+ <summary>T-0003 Windows 11 install failed - partition selection error - Desktop Refurbishment Repository</summary>
  
   ![3](images/T0003.png)
   
@@ -42,13 +42,6 @@ This project documents troubleshooting activities that arose while working on ot
   ![T-0007 Download Failed; Insufficient Disk Space](images/T0007.png)
   
  </details>
-
-<details>
- <summary> T-0008 User unable to save files locally - Active Directory Repository </summary>
-
-![8](images/T-008.1.png)
-
-</details>
 
 <details>
  <summary> T-0009 User unable to print - Software Tools Repository </summary>
