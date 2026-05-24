@@ -39,7 +39,7 @@ This project documents troubleshooting activities that arose while working on ot
 <details>
  <summary> T-0008 User unable to save files locally - Active Directory Repository </summary>
 
-![8](images/ITSM.ticket8.png)
+![8](images/T-008.1.png)
 
 </details>
 
