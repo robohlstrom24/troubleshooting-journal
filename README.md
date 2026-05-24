@@ -4,9 +4,16 @@
 
 This project documents troubleshooting activities that arose while working on other projects, as well as common troubleshooting scenarios simulated in a home lab environment. Documentation is recorded in an ITSM-style ticketing format that aligns with professional IT Support workflows. Click the > drop-down to view each ticket. 
 
-## Example: T-0003
+## Example: T-0008 User unable to save files locally - Active Directory Repository
 
-![Resolving Partition Selection Error Encountered During Desktop Refurbishment Project](images/T0003.png)
+![8](images/T-008.1.png)
+
+<details>
+ <summary>Windows 11 install failed - partition selection error - Desktop Refurbishment Repository</summary>
+ 
+  ![3](images/T0003.png)
+  
+</details>
 
 <details>
  <summary> T-0004 RAM Compatibility Issue - Desktop Refurbishment Repository</summary>
