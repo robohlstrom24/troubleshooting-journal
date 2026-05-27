@@ -12,7 +12,7 @@ This project documents troubleshooting activities which are simulated in a home 
 - Network & Systems Diagnosis (T-0010, T-0013, T-0014)
 - Endpoint & Hardware Support (T-0003, T-0004, T-0005, T-0006) 
 
-### Example: T-0008 User Unable To Save Files Locally | GPO Misconfiguration (Active Directory Repository)
+### T-0008 User Unable To Save Files Locally | GPO Misconfiguration (Active Directory Repository)
 
 ![8](images/T-008.1.png)
 
