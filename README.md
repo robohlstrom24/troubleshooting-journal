@@ -108,32 +108,7 @@ This project documents troubleshooting activities which are simulated in a home 
 </details>
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-[**Back to Desktop Refurb Repository](https://github.com/robohlstrom24/desktop-refurb)
-
-[**Back to PowerShell Foundations Repository](https://github.com/robohlstrom24/powershell-foundations)
+[**Back to Microsoft 365 Repository](https://github.com/robohlstrom24/M365)
 
 [**Back to Active Directory Lab Repository](https://github.com/robohlstrom24/AD-lab)
 
@@ -141,5 +116,15 @@ This project documents troubleshooting activities which are simulated in a home 
 
 [**Back to Networking Foundations Repository](https://github.com/robohlstrom24/networking-foundations)
 
-[**Back to Microsoft 365 Repository](https://github.com/robohlstrom24/M365)
+[**Back to Desktop Refurbishment Repository](https://github.com/robohlstrom24/desktop-refurb)
+
+[**Back to PowerShell Foundations Repository](https://github.com/robohlstrom24/powershell-foundations)
+
+
+
+
+
+
+
+
 
