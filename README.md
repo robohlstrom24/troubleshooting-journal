@@ -2,7 +2,15 @@
  
  ## Operational Relevance 
 
-This project documents troubleshooting activities that arose while working on other projects, as well as common troubleshooting scenarios simulated in a home lab environment. Documentation is recorded in an ITSM-style ticketing format that aligns with professional IT Support workflows. Click the > drop-down to view each ticket. 
+This project documents troubleshooting activities that arose while working on other projects, as well as common troubleshooting scenarios simulated in a home lab environment. Documentation is recorded in an ITSM-style ticketing format that aligns with professional IT Support workflows. Click the > drop-down to view each ticket.
+
+## Job Skills Demonstrated
+
+-ITSM Ticketing and Documentation
+-Active Directory and Permissions Troubleshooting (T-0008, T-0012, T-0017)
+-Microsoft 365 & Identity Troubleshooting (T-0011, T-0015, T-0018)
+-Network & Systems Diagnosis (T-0010, T-0013, T-0014)
+-Endpoint & Hardware Support (T-0003, T-0005, T-0006) 
 
 ## Example: T-0008 User unable to save files locally - Active Directory Repository
 
