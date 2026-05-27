@@ -2,7 +2,7 @@
  
  ## Operational Relevance 
 
-This project documents troubleshooting activities that arose while working on other projects, as well as common troubleshooting scenarios simulated in a home lab environment. Documentation is recorded in an ITSM-style ticketing format that aligns with professional IT Support workflows. Click the > drop-down to view each ticket.
+This project documents troubleshooting activities which are simulated in a home lab environment. Documentation is recorded in an ITSM-style ticketing format that aligns with professional IT Support workflows. Click the > drop-down to view each ticket.
 
 ## Job Skills Demonstrated
 
