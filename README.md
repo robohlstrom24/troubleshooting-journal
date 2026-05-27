@@ -10,93 +10,16 @@ This project documents troubleshooting activities that arose while working on ot
 - Active Directory and Permissions Troubleshooting (T-0008, T-0012, T-0017)
 - Microsoft 365 & Identity Troubleshooting (T-0011, T-0015, T-0018)
 - Network & Systems Diagnosis (T-0010, T-0013, T-0014)
-- Endpoint & Hardware Support (T-0003, T-0005, T-0006) 
+- Endpoint & Hardware Support (T-0003, T-0004, T-0005, T-0006) 
 
 ## Example: T-0008 User unable to save files locally - Active Directory Repository
 
 ![8](images/T-008.1.png)
 
 <details>
- <summary>T-0003 Windows 11 install failed - partition selection error - Desktop Refurbishment Repository</summary>
- 
-  ![3](images/T0003.png)
-  
-</details>
+ <summary> T-0018 Overly Broad SharePoint Permissions Create Unintended Access - M365 Repository</summary>
 
-<details>
- <summary> T-0004 RAM Compatibility Issue - Desktop Refurbishment Repository</summary>
- 
- ![T-0004 RAM Compatibility Issue](images/T0004.png)
- 
-</details>
-
-<details>
- <summary> T-0005 Blank Screen after SSD Upgrade - Desktop Refurbishment Repository </summary>
-
- ![T-0005 Blank Screen after SSD Upgrade](images/T0005.png)
- 
-</details>
-
-<details>
- <summary> T-0006 Windows Update Stalled - Desktop Refurbishment Repository </summary>
-
- ![T-0006 Windows Update Stalled](images/T0006.png)
- 
-</details>
-
-<details>
- <summary> T-0007 Download Failed - PowerShell Foundations Repository </summary>
-
-  ![T-0007 Download Failed; Insufficient Disk Space](images/T0007.png)
-  
- </details>
-
-<details>
- <summary> T-0009 User unable to print - Software Tools Repository </summary>
-
-![9](images/ITSM.ticket9.png)
- 
-</details>
-
-<details>
- <summary> T-0010 No Internet - IP Address Conflict - Networking Foundations Repository</summary>
-
- ![10](images/T.0010.png)
- 
-</details>
-
-<details>
- <summary> T-0011 Email Malfunctioning - Inadvertant License Removal - M365 Repository</summary>
-
- ![11](images/T-0011.png)
- 
-</details>
-
-<details>
- <summary> T-0012 Domain-Join Failure - Broken Trust Relationship - Active Directory Repository</summary>
- 
- ![12](images/T-0012.png)
- 
-</details>
-
-<details> 
-<summary> T-0013 High CPU Utilization - Runaway Script - Software Tools Repository</summary> 
-
-![13](images/T-0013.png)
-
-</details>
-
-<details>
- <summary> T-0014 Web Application Unavailable - Software Tools Repository </summary>
-
- ![14](images/T-0014.png)
- 
-</details>
-
-<details>
- <summary>T-0015 RDP server access failure - M365 Repository</summary>
-
- ![15](images/T0015.png)
+ ![18](images/T-0018.png)
  
 </details>
 
@@ -108,11 +31,112 @@ This project documents troubleshooting activities that arose while working on ot
 </details>
 
 <details>
- <summary> T-0018 Overly Broad SharePoint Permissions Create Unintended Access - M365 Repository</summary>
+ <summary>T-0015 RDP server access failure - M365 Repository</summary>
 
- ![18](images/T-0018.png)
+ ![15](images/T0015.png)
  
 </details>
+
+<details>
+ <summary> T-0014 Web Application Unavailable - Software Tools Repository </summary>
+
+ ![14](images/T-0014.png)
+ 
+</details>
+
+<details> 
+<summary> T-0013 High CPU Utilization - Runaway Script - Software Tools Repository</summary> 
+
+![13](images/T-0013.png)
+
+</details>
+
+<details>
+ <summary> T-0012 Domain-Join Failure - Broken Trust Relationship - Active Directory Repository</summary>
+ 
+ ![12](images/T-0012.png)
+ 
+</details>
+
+<details>
+ <summary> T-0011 Email Malfunctioning - Inadvertant License Removal - M365 Repository</summary>
+
+ ![11](images/T-0011.png)
+ 
+</details>
+
+<details>
+ <summary> T-0010 No Internet - IP Address Conflict - Networking Foundations Repository</summary>
+
+ ![10](images/T.0010.png)
+ 
+</details>
+
+<details>
+ <summary> T-0009 User unable to print - Software Tools Repository </summary>
+
+![9](images/ITSM.ticket9.png)
+ 
+</details>
+
+<details>
+ <summary> T-0007 Download Failed - PowerShell Foundations Repository </summary>
+
+  ![T-0007 Download Failed; Insufficient Disk Space](images/T0007.png)
+  
+ </details>
+
+ <details>
+ <summary> T-0006 Windows Update Stalled - Desktop Refurbishment Repository </summary>
+
+ ![T-0006 Windows Update Stalled](images/T0006.png)
+ 
+</details>
+
+<details>
+ <summary> T-0005 Blank Screen after SSD Upgrade - Desktop Refurbishment Repository </summary>
+
+ ![T-0005 Blank Screen after SSD Upgrade](images/T0005.png)
+ 
+</details>
+
+<details>
+ <summary> T-0004 RAM Compatibility Issue - Desktop Refurbishment Repository</summary>
+ 
+ ![T-0004 RAM Compatibility Issue](images/T0004.png)
+ 
+</details>
+
+<details>
+ <summary>T-0003 Windows 11 install failed - partition selection error - Desktop Refurbishment Repository</summary>
+ 
+  ![3](images/T0003.png)
+  
+</details>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 [**Back to Desktop Refurb Repository](https://github.com/robohlstrom24/desktop-refurb)
 
