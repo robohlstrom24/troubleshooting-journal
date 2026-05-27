@@ -24,7 +24,7 @@ This project documents troubleshooting activities which are simulated in a home 
 </details>
 
 <details>
- <summary>T-0017 Inaccessible Network Share | Permissions Mismatch (Active Directory Repository</summary>
+ <summary>T-0017 Inaccessible Network Share | Permissions Mismatch (Active Directory Repository)</summary>
 
  ![17](images/T-0017.png)
  
