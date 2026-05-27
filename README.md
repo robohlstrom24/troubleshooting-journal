@@ -31,7 +31,7 @@ This project documents troubleshooting activities which are simulated in a home 
 </details>
 
 <details>
- <summary> T-0015 RDP Server access failure | GPO Application (Hybrid Identity Lifecycle Lab) </summary>
+ <summary> T-0015 RDP Server access failure | GPO Conflict (Hybrid Identity Lifecycle Lab) </summary>
 
  ![15](images/T0015.png)
  
