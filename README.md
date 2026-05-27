@@ -87,7 +87,7 @@ This project documents troubleshooting activities which are simulated in a home 
  </details>
 
 <details>
- <summary> T-0005 Blank Screen After SSD Upgrade | BIOS Date/Time (Desktop Refurbishment Repository) </summary>
+ <summary> T-0005 Blank Screen After SSD Upgrade | BIOS Date/Time Error (Desktop Refurbishment Repository) </summary>
 
  ![T-0005 Blank Screen after SSD Upgrade](images/T0005.png)
  
