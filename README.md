@@ -36,14 +36,14 @@ A structured ticket log documenting Tier 1/2 troubleshooting scenarios managed i
 <details>
 <summary>T-0008 · Sales user unable to save files locally – Finance GPO incorrectly linked at domain level</summary>
 
-<img src="images/Jira/T-0008.png" width="3000">
+[![T-0008](images/Jira/T-0008.png)](images/Jira/T-0008.png)
 
 </details>
 
 <details>
 <summary>T-0012 · Domain login failure – broken trust relationship after computer account deletion</summary>
 
-<img src="images/Jira/T-0012.png" width="900">
+[![T-0012](images/Jira/T-0012.png)](images/Jira/T-0012.png)
 
 </details>
 
@@ -56,14 +56,14 @@ A structured ticket log documenting Tier 1/2 troubleshooting scenarios managed i
 <details>
 <summary>T-0011 · Exchange Online access lost – user removed from M365 licensing group</summary>
 
-<img src="images/Jira/T-0011.png" width="900">
+[![T-0011](images/Jira/T-0011.png)](images/Jira/T-0011.png)
 
 </details>
 
 <details>
 <summary>T-0018 · External user granted excessive SharePoint permissions</summary>
 
-<img src="images/Jira/T-0018.png" width="900">
+[![T-0018](images/Jira/T-0018.png)](images/Jira/T-0018.png)
 
 </details>
 
@@ -76,21 +76,21 @@ A structured ticket log documenting Tier 1/2 troubleshooting scenarios managed i
 <details>
 <summary>T-0010 · Conference room PC no internet access – duplicate IP address conflict with DHCP scope overlap</summary>
 
-<img src="images/Jira/T-0010.png" width="900">
+[![T-0010](images/Jira/T-0010.png)](images/Jira/T-0010.png)
 
 </details>
 
 <details>
 <summary>T-0015 · RDP access blocked – missing local Remote Desktop Users group entry</summary>
 
-<img src="images/Jira/T-0015.png" width="900">
+[![T-0015](images/Jira/T-0015.png)](images/Jira/T-0015.png)
 
 </details>
 
 <details>
 <summary>T-0017 · Network share access denied – NTFS permission mismatch</summary>
 
-<img src="images/Jira/T-0017.png" width="900">
+[![T-0017](images/Jira/T-0017.png)](images/Jira/T-0017.png)
 
 </details>
 
@@ -103,28 +103,28 @@ A structured ticket log documenting Tier 1/2 troubleshooting scenarios managed i
 <details>
 <summary>T-0006 · Windows Update stalled – BITS and Windows Update services stopped</summary>
 
-<img src="images/Jira/T-0006.png" width="900">
+[![T-0006](images/Jira/T-0006.png)](images/Jira/T-0006.png)
 
 </details>
 
 <details>
 <summary>T-0009 · Print Spooler fails to start after reboot – service account misconfiguration causing logon failure</summary>
 
-<img src="images/Jira/T-0009.png" width="900">
+[![T-0009](images/Jira/T-0009.png)](images/Jira/T-0009.png)
 
 </details>
 
 <details>
 <summary>T-0013 · Workstation performance degraded – runaway PowerShell script causing 100% CPU utilization</summary>
 
-<img src="images/Jira/T-0013.png" width="900">
+[![T-0013](images/Jira/T-0013.png)](images/Jira/T-0013.png)
 
 </details>
 
 <details>
 <summary>T-0014 · Internal web application inaccessible – IIS W3SVC service stopped</summary>
 
-<img src="images/Jira/T-0014.png" width="900">
+[![T-0014](images/Jira/T-0014.png)](images/Jira/T-0014.png)
 
 </details>
 
@@ -137,7 +137,7 @@ A structured ticket log documenting Tier 1/2 troubleshooting scenarios managed i
 <details>
 <summary>T-0007 · Large file download failing – disk space exhausted by accumulated log and temp files</summary>
 
-<img src="images/Jira/T-0007.png" width="900">
+[![T-0007](images/Jira/T-0007.png)](images/Jira/T-0007.png)
 
 </details>
 
@@ -150,16 +150,17 @@ A structured ticket log documenting Tier 1/2 troubleshooting scenarios managed i
 <details>
 <summary>T-0004 · RAM upgrade reporting half capacity – Crucial modules not on Dell QVL causing BIOS initialization failure</summary>
 
-<img src="images/Jira/T-0004.png" width="900">
+[![T-0004](images/Jira/T-0004.png)](images/Jira/T-0004.png)
 
 </details>
 
 <details>
 <summary>T-0005 · System fails to boot after SSD upgrade – BIOS configuration reset due to weak CMOS battery</summary>
 
-<img src="images/Jira/T-0005.png" width="900">
+[![T-0005](images/Jira/T-0005.png)](images/Jira/T-0005.png)
 
 </details>
+
 
 
 
