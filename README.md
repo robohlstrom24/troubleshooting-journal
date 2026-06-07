@@ -36,7 +36,7 @@ A structured ticket log documenting Tier 1/2 troubleshooting scenarios managed i
 <details>
 <summary>T-0008 · Sales user unable to save files locally – Finance GPO incorrectly linked at domain level</summary>
 
-<img src="images/Jira/T-0008.png" width="1500">
+<img src="images/Jira/T-0008.png" width="3000">
 
 </details>
 
