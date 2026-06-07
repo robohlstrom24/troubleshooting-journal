@@ -1,111 +1,166 @@
 ![1](images/troubleshooting.banner.png)
  
- ## Operational Relevance 
+## Operational Relevance
 
-This project documents troubleshooting activities which are simulated in a home lab environment. Documentation is recorded in an ITSM-style ticketing format that aligns with professional IT Support workflows. Click the > drop-down to view each ticket.
+A structured ticket log documenting Tier 1/2 troubleshooting scenarios managed in Jira Service Management. The project also demonstrates broader JSM platform fluency including priority-based ticket organization, impact triage, and Microsoft Teams integration for real-time queue notifications.
 
 ## Job Skills Demonstrated
 
 - ITSM Ticketing and Documentation
-- Active Directory and Permissions Troubleshooting (T-0008, T-0012, T-0017)
-- Microsoft 365 & Identity Troubleshooting (T-0011, T-0015, T-0018)
-- Network & Systems Diagnosis (T-0010, T-0013, T-0014)
-- Endpoint & Hardware Support (T-0003, T-0004, T-0005, T-0006) 
+- Active Directory Troubleshooting (T-0008, T-0012)
+- M365 & Identity Troubleshooting (T-0011, T-0018)
+- Network Troubleshooting (T-0010, T-0015, T-0017)
+- Windows Services & Software Tools (T-0006, T-0009, T-0013, T-0014)
+- PowerShell Troubleshooting (T-0007)
+- Hardware Diagnosis & Support (T-0004, T-0005)
 
-### T-0008 User Unable To Save Files Locally | GPO Misconfiguration (Active Directory Repository)
+---
 
-![8](images/T-008.1.png)
+## Category Overview
 
-<details>
- <summary> T-0018 Overly Broad SharePoint Permissions | Unintended Access (M365 Repository)</summary>
+| Category | Tickets | Key Tools / Concepts |
+|---|---|---|
+| [Active Directory](#active-directory) | 2 | gpresult, GPMC, nltest, domain trust, computer accounts |
+| [M365](#m365) | 2 | Exchange Online, group-based licensing, SharePoint permissions |
+| [Network](#network) | 3 | DHCP, IP conflict, RDP, NTFS, netstat, ping |
+| [Windows Services & Software Tools](#windows-services--software-tools) | 4 | Event Viewer, Services Manager, Performance Monitor, Task Manager, IIS |
+| [PowerShell Troubleshooting](#powershell-troubleshooting) | 1 | PowerShell, disk cleanup, log/temp file remediation |
+| [Hardware](#hardware) | 2 | BIOS, CMOS, RAM compatibility, QVL |
 
- ![18](images/T-0018.png)
- 
-</details>
+---
 
-<details>
- <summary>T-0017 Inaccessible Network Share | Permissions Mismatch (Active Directory Repository)</summary>
+## Active Directory
 
- ![17](images/T-0017.png)
- 
-</details>
-
-<details>
- <summary> T-0015 RDP Server access failure | GPO Conflict (Hybrid Identity Lifecycle Lab) </summary>
-
- ![15](images/T0015.png)
- 
-</details>
+[Back to top](#troubleshooting-journal)
 
 <details>
- <summary> T-0014 Web Application Unavailable | Stopped Service (Software Tools Repository) </summary>
+<summary>T-0008 · Sales user unable to save files locally – Finance GPO incorrectly linked at domain level</summary>
 
- ![14](images/T-0014.png)
- 
-</details>
-
-<details> 
-<summary> T-0013 High CPU Utilization | Runaway Script (Software Tools Repository) </summary> 
-
-![13](images/T-0013.png)
+![T-0008](images/Jira/T-0008.png)
 
 </details>
 
 <details>
- <summary> T-0012 Domain-Join Failure | Broken Trust Relationship (Active Directory Repository) </summary>
- 
- ![12](images/T-0012.png)
- 
+<summary>T-0012 · Domain login failure – broken trust relationship after computer account deletion</summary>
+
+![T-0012](images/Jira/T-0012.png)
+
+</details>
+
+---
+
+## M365
+
+[Back to top](#troubleshooting-journal)
+
+<details>
+<summary>T-0011 · Exchange Online access lost – user removed from M365 licensing group</summary>
+
+![T-0011](images/Jira/T-0011.png)
+
 </details>
 
 <details>
- <summary> T-0011 Email Malfunctioning | Inadvertant License Removal (Microsoft 365 Repository) </summary>
+<summary>T-0018 · External user granted excessive SharePoint permissions</summary>
 
- ![11](images/T-0011.png)
- 
+![T-0018](images/Jira/T-0018.png)
+
+</details>
+
+---
+
+## Network
+
+[Back to top](#troubleshooting-journal)
+
+<details>
+<summary>T-0010 · Conference room PC no internet access – duplicate IP address conflict with DHCP scope overlap</summary>
+
+![T-0010](images/Jira/T-0010.png)
+
 </details>
 
 <details>
- <summary> T-0010 No Internet | IP Address Conflict (Networking Foundations Repository) </summary>
+<summary>T-0015 · RDP access blocked – missing local Remote Desktop Users group entry</summary>
 
- ![10](images/T.0010.png)
- 
+![T-0015](images/Jira/T-0015.png)
+
 </details>
 
 <details>
- <summary> T-0009 User Unable to Print | Event Viewer Diagnostics (Software Tools Repository) </summary>
+<summary>T-0017 · Network share access denied – NTFS permission mismatch</summary>
 
-![9](images/ITSM.ticket9.png)
- 
+![T-0017](images/Jira/T-0017.png)
+
+</details>
+
+---
+
+## Windows Services & Software Tools
+
+[Back to top](#troubleshooting-journal)
+
+<details>
+<summary>T-0006 · Windows Update stalled – BITS and Windows Update services stopped</summary>
+
+![T-0006](images/Jira/T-0006.png)
+
 </details>
 
 <details>
- <summary> T-0007 Download Failed | Temp File Cleanup (PowerShell Foundations Repository) </summary>
+<summary>T-0009 · Print Spooler fails to start after reboot – service account misconfiguration causing logon failure</summary>
 
-  ![T-0007 Download Failed; Insufficient Disk Space](images/T0007.png)
-  
- </details>
+![T-0009](images/Jira/T-0009.png)
 
-<details>
- <summary> T-0005 Blank Screen After SSD Upgrade | BIOS Date/Time Error (Desktop Refurbishment Repository) </summary>
-
- ![T-0005 Blank Screen after SSD Upgrade](images/T0005.png)
- 
 </details>
 
 <details>
- <summary> T-0004 RAM Compatibility Issue | Qualified Vendor List (Desktop Refurbishment Repository) </summary>
- 
- ![T-0004 RAM Compatibility Issue](images/T0004.png)
- 
+<summary>T-0013 · Workstation performance degraded – runaway PowerShell script causing 100% CPU utilization</summary>
+
+![T-0013](images/Jira/T-0013.png)
+
 </details>
 
 <details>
- <summary>T-0003 Windows 11 Install Failed | Partition Selection Error (Desktop Refurbishment Repository) </summary>
- 
-  ![3](images/T0003.png)
-  
+<summary>T-0014 · Internal web application inaccessible – IIS W3SVC service stopped</summary>
+
+![T-0014](images/Jira/T-0014.png)
+
 </details>
+
+---
+
+## PowerShell Troubleshooting
+
+[Back to top](#troubleshooting-journal)
+
+<details>
+<summary>T-0007 · Large file download failing – disk space exhausted by accumulated log and temp files</summary>
+
+![T-0007](images/Jira/T-0007.png)
+
+</details>
+
+---
+
+## Hardware
+
+[Back to top](#troubleshooting-journal)
+
+<details>
+<summary>T-0004 · RAM upgrade reporting half capacity – Crucial modules not on Dell QVL causing BIOS initialization failure</summary>
+
+![T-0004](images/Jira/T-0004.png)
+
+</details>
+
+<details>
+<summary>T-0005 · System fails to boot after SSD upgrade – BIOS configuration reset due to weak CMOS battery</summary>
+
+![T-0005](images/Jira/T-0005.png)
+
+</details>
+
 
 
 [**Back to Microsoft 365 Repository](https://github.com/robohlstrom24/M365)
