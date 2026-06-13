@@ -90,7 +90,7 @@ ________________________________________________________________________________
 
 [**Back to Microsoft 365 Repository](https://github.com/robohlstrom24/M365)
 
-[**Back to Active Directory Lab Repository](https://github.com/robohlstrom24/AD-lab)
+[**Back to Active Directory Repository](https://github.com/robohlstrom24/AD-lab)
 
 [**Back to Software Tools Repository](https://github.com/robohlstrom24/software-tools)
 
