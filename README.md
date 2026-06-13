@@ -84,7 +84,7 @@ A structured ticket log documenting Tier 1/2 troubleshooting scenarios managed i
 - [T-0004 · RAM upgrade reporting half capacity – Crucial modules not on Dell QVL causing BIOS initialization failure](images/Jira/T-0004.png)
 - [T-0005 · System fails to boot after SSD upgrade – BIOS configuration reset due to weak CMOS battery](images/Jira/T-0005.png)
 
-
+______________________________________________________________________________________________________________________
 
 
 
