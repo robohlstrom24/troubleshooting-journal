@@ -9,7 +9,7 @@ A structured ticket log documenting Tier 1/2 troubleshooting scenarios managed i
 
 - ITSM Ticketing and Documentation
 - Active Directory Troubleshooting (T-0008, T-0012)
-- M365 & Identity Troubleshooting (T-0011, T-0018)
+- M365 & Identity Troubleshooting (T-0011, T-0018, T-0019)
 - Network Troubleshooting (T-0010, T-0015, T-0017)
 - Windows Services & Software Tools (T-0006, T-0009, T-0013, T-0014)
 - PowerShell Troubleshooting (T-0007)
@@ -22,7 +22,7 @@ A structured ticket log documenting Tier 1/2 troubleshooting scenarios managed i
 | Category | Tickets | Key Tools / Concepts |
 |---|---|---|
 | [Active Directory](#active-directory) | 2 | gpresult, GPMC, nltest, domain trust, computer accounts |
-| [M365](#m365) | 2 | Exchange Online, group-based licensing, SharePoint permissions |
+| [M365](#m365) | 3 | Exchange Online, group-based licensing, SharePoint permissions, SSO |
 | [Network](#network) | 3 | DHCP, IP conflict, RDP, NTFS, netstat, ping |
 | [Windows Services & Software Tools](#windows-services--software-tools) | 4 | Event Viewer, Services Manager, Performance Monitor, Task Manager, IIS |
 | [PowerShell Troubleshooting](#powershell-troubleshooting) | 1 | PowerShell, disk cleanup, log/temp file remediation |
@@ -45,7 +45,7 @@ A structured ticket log documenting Tier 1/2 troubleshooting scenarios managed i
 
 - [T-0011 · Exchange Online access lost – user removed from M365 licensing group](images/Jira/T-0011.png)
 - [T-0018 · External user granted excessive SharePoint permissions](images/Jira/T-0018.png)
-
+- [T-0019 · User unable to access application via SSO - ADSTS50105 access denied](images/Jira/T-0019.1)   
 ---
 
 ## Network
