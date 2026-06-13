@@ -45,7 +45,7 @@ A structured ticket log documenting Tier 1/2 troubleshooting scenarios managed i
 
 - [T-0011 · Exchange Online access lost – user removed from M365 licensing group](images/Jira/T-0011.png)
 - [T-0018 · External user granted excessive SharePoint permissions](images/Jira/T-0018.png)
-- [T-0019 · User unable to access application via SSO - ADSTS50105 access denied](images/Jira/T-0019.1)   
+- [T-0019 · User unable to access application via SSO - ADSTS50105 access denied](images/Jira/T-0019.1.png)   
 ---
 
 ## Network
